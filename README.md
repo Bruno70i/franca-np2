@@ -61,12 +61,13 @@ python -m venv .venv
 
 Crie o arquivo requirements.txt: Copie e cole o conteúdo abaixo em um arquivo requirements.txt na raiz do projeto.
 
+```
 Tensorflow
 Matplotlib
 Seaborn
 scikit-learn
 numpy
-
+```
 
 Instale as dependências:
 
