@@ -122,17 +122,3 @@ O script irá:
 3.	Treinar o modelo por 10 épocas, mostrando o progresso.
 4.	Ao final, imprimir o Relatório de Classificação no terminal.
 5.	Abrir 3 janelas de gráficos Matplotlib com os resultados da avaliação.
- 
-# 6. Resultados Obtidos
-O treinamento e a avaliação foram um sucesso, resultando em um modelo de altíssima performance.
-
--	Acurácia de Treinamento: Os gráficos de treino e validação mostraram um aprendizado saudável, sem overfitting.
--	Acurácia Final (Teste): O modelo atingiu 99% de acurácia no conjunto de teste.
--	AUC: A Área Sob a Curva ROC foi de 1.00, indicando um poder de discriminação perfeito entre as classes.
-
-## Gráficos de Avaliação:
-Gráfico de Treinamento e Validação Análise: As curvas de validação (laranja) acompanham as de treino (azul), indicando que o modelo generalizou bem e não sofreu overfitting.
-
-Matriz de Confusão Análise: Em 3.000 imagens de teste, o modelo cometeu apenas 34 erros (26 Falsos Positivos e 8 Falsos Negativos).
-
-Curva ROC Análise: A AUC de 1.00 demonstra um classificador ideal.
