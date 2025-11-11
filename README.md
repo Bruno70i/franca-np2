@@ -1,5 +1,13 @@
 Projeto: Classificador de Cenas Urbanas vs. Naturais
 
+```
+Bruno N. de Paula Silva – G793030
+Heitor Fernandez Soares – G7853G7
+Guilherme Silva Pereira da Rocha - F352463
+Arthur Araújo Pereira – G87EDA1
+```
+
+
 Projeto: https://github.com/Bruno70i/franca-np2
 
 Disciplina: Processamento de Imagens e Visão Computacional - Prof. França Instituição: UNIP (Universidade Paulista)
